@@ -1,0 +1,136 @@
+.titulo-princ
+
+{
+
+    font-size: 4em;
+
+    text-align: center;
+
+    color: gray;
+
+    text-shadow: 5px 5px 3px black;
+
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.titulo
+
+{
+
+    font-size: 3em;
+
+    text-align: center;
+
+    color: gray;
+
+    text-shadow: 5px 5px 3px black;
+
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.titulo-mapa
+
+{
+
+    font-size: 3em;
+
+    text-align: center;
+
+    color: gray;
+
+    text-shadow: 5px 5px 3px black;
+
+    font-family: 'Oswald', sans-serif;
+
+    clear: right;
+
+}
+
+.titulo-benef
+
+{
+
+    font-size: 3em;
+
+    text-align: center;
+
+    color: gray;
+
+    text-shadow: 5px 5px 3px black;
+
+
+
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.subtitulo
+
+{
+
+    text-align: center;
+
+    font-size: 2em;
+
+    text-shadow: 5px 5px 3px black;
+
+}
+
+.text
+
+{
+
+    text-align: center;
+
+    text-shadow: 5px 5px 3px black;
+}
+
+.text-list
+
+{
+
+    margin: 50px;
+
+    text-shadow: 5px 5px 3px black;
+
+}
+
+.bk
+
+{
+
+    background-image: url("bic.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+}
+
+.principal
+
+{
+
+
+
+
+    margin: 0 350px;
+
+    color: gray;
+
+    font-size: 2em;
+
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.menu
+
+{
+
+    width: 50%;
+
+    float: right;
+
+}
